@@ -20,7 +20,7 @@ Computer Science graduate (cum laude, GPA 3.6) with practical experience in auth
 These are **AI-assisted educational codebases with reproducible cloud tests**, shared for technical review and continued hands-on development. The cloud validation reports describe what was executed; they do not imply independent authorship or professional penetration-testing work.
 
 ### [Security Log Analyzer](https://github.com/DynamicConstructor/security-log-analyzer)
-Python authentication-event analysis using sliding time windows to flag repeated failures, cross-account source activity, and success-after-failure patterns. Includes sample data, tests, and validation notes.
+Flagship AI-assisted learning project: an offline Python authentication-triage workbench accepting CSV/JSONL, applying configurable sliding-window rules, and exporting structured JSON, Markdown, and HTML reports. Includes 15 cloud-passing automated tests and a documented independent-contribution challenge.
 
 ### [SQL Injection Lab](https://github.com/DynamicConstructor/sql-injection-lab)
 An isolated SQLite comparison of unsafe query construction and bound parameters, with a reproducible demonstration and remediation tests.
